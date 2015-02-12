@@ -1,6 +1,6 @@
 {
   "name": "node-geolite2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This is the pure Node API for reading country and city information from GeoLite2 database file based on node-maxmind-db",
   "homepage": "https://github.com/zj8487/node-GeoLite2",
   "author": {
