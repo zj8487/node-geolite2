@@ -18,7 +18,9 @@
   ],
   "keywords": [
     "node-geolite2",
-    "maxmind geoip geoip2"
+    "maxmind",
+    "geoip", 
+    "geoip2"
   ],
   "dependencies": {
     "maxmind-db-reader": "^0.2.0"
