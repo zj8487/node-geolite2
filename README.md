@@ -27,7 +27,7 @@ MIT © [zj8487](https://github.com/zj8487)
 
 [npm-url]: https://npmjs.org/package/node-geolite2
 [npm-image]: https://badge.fury.io/js/node-geolite2.svg
-[travis-url]: https://travis-ci.org/zj8487@gmail.com/node-geolite2
-[travis-image]: https://travis-ci.org/zj8487@gmail.com/node-geolite2.svg?branch=master
-[daviddm-url]: https://david-dm.org/zj8487@gmail.com/node-geolite2.svg?theme=shields.io
-[daviddm-image]: https://david-dm.org/zj8487@gmail.com/node-geolite2
+[travis-url]: https://travis-ci.org/zj8487/node-geolite2
+[travis-image]: https://travis-ci.org/zj8487/node-geolite2.svg?branch=master
+[daviddm-url]: https://david-dm.org/zj8487/node-geolite2.svg?theme=shields.io
+[daviddm-image]: https://david-dm.org/zj8487/node-geolite2
