@@ -1,12 +1,12 @@
 {
   "name": "node-geolite2",
-  "version": "0.1.0",
-  "description": "This is the pure Node API for reading country and city information from GeoLite2 database file based on node-maxmind-db",
-  "homepage": "https://github.com/zj8487/node-GeoLite2",
+  "version": "0.1.1",
+  "description": "This is the pure Node API for reading country and city information from geolite2 database file based on node-maxmind-db",
+  "homepage": "https://github.com/zj8487/node-geolite2",
   "author": "zj8487 <zj8487@gmail.com> (https://github.com/zj8487)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zj8487/node-GeoLite2.git"
+    "url": "https://github.com/zj8487/node-geolite2.git"
   },
   "license": "MIT",
   "files": [
@@ -29,7 +29,7 @@
     "test": "make test"
   },
   "bugs": {
-    "url": "https://github.com/zj8487/node-GeoLite2/issues"
+    "url": "https://github.com/zj8487/node-geolite2/issues"
   },
   "main": "index.js",
   "directories": {
