@@ -1,5 +1,6 @@
 'use strict';
 
+var path = require("path");
 var mmdbreader = require('maxmind-db-reader');
 var geoDataFile = path.join(__dirname, '/data/GeoLite2-City.mmdb');
 

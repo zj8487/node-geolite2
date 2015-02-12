@@ -1,13 +1,9 @@
 {
   "name": "node-geolite2",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "This is the pure Node API for reading country and city information from GeoLite2 database file based on node-maxmind-db",
   "homepage": "https://github.com/zj8487/node-GeoLite2",
-  "author": {
-    "name": "zj8487",
-    "email": "zj8487@gmail.com",
-    "url": "https://github.com/zj8487"
-  },
+  "author": "zj8487 <zj8487@gmail.com> (https://github.com/zj8487)",
   "repository": {
     "type": "git",
     "url": "https://github.com/zj8487/node-GeoLite2.git"
@@ -19,24 +15,24 @@
   "keywords": [
     "node-geolite2",
     "maxmind",
-    "geoip", 
+    "geoip",
     "geoip2"
   ],
   "dependencies": {
     "maxmind-db-reader": "^0.2.0"
   },
   "devDependencies": {
-    "grunt-cli": "^0.1.13",
-    "grunt-contrib-jshint": "^0.10.0",
-    "grunt-contrib-nodeunit": "^0.4.1",
-    "grunt-contrib-watch": "^0.6.1",
-    "grunt-mocha-cli": "^1.11.0",
-    "jshint-stylish": "^1.0.0",
-    "load-grunt-tasks": "^1.0.0",
-    "should": "^5.0.0",
-    "time-grunt": "^1.0.0"
+    "mocha": "^2.1.0",
+    "should": "^5.0.0"
   },
   "scripts": {
-    "test": "grunt"
+    "test": "make test"
+  },
+  "bugs": {
+    "url": "https://github.com/zj8487/node-GeoLite2/issues"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
   }
 }
