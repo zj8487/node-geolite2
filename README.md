@@ -13,9 +13,9 @@ $ npm install --save node-geolite2
 ## Usage
 
 ```js
-var node-geolite2 = require('node-geolite2');
-node-geolite2.init();
-var location = node-geolite2.getGeoDataSync("118.112.56.251");
+var geolite = require('node-geolite2');
+geolite.init();
+var location = geolite.getGeoDataSync("118.112.56.251");
 console.log(location);
 ```
 
